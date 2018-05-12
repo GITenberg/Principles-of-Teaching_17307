@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7292
     wikipedia: http://en.wikipedia.org/wiki/Adam_S._Bennion
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17307#Principles-of-Teaching
 gutenberg_issued: '2005-12-14'
 gutenberg_type: Text
 identifiers:
